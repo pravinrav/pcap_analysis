@@ -1,0 +1,399 @@
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12T13_55_50.062627_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12T13_55_50.062627_ST_One.pcap
+The duration (in seconds) is: 65.25
+Total packets: 614492
+Total bytes: 915347043
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Three.pcap
+The duration (in seconds) is: 65.06
+Total packets: 12063
+Total bytes: 15504588
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662946
+Total bytes: 989393878
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_Two.pcap2
+The duration (in seconds) is: 4.67
+Total packets: 101957
+Total bytes: 152159116
+Data rate: 32.58 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_57_33/00-Collected/2022-09-12T13_57_37.839070_ST_One.pcap
+The duration (in seconds) is: 65.35
+Total packets: 615185
+Total bytes: 916325448
+Data rate: 14.02 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap2
+The duration (in seconds) is: 4.97
+Total packets: 108533
+Total bytes: 161978232
+Data rate: 32.59 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662942
+Total bytes: 989393924
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_One.pcap
+The duration (in seconds) is: 65.64
+Total packets: 617880
+Total bytes: 920708719
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_04_43/00-Collected/2022-09-12T14_04_47.975001_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662938
+Total bytes: 989394388
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_One.pcap
+The duration (in seconds) is: 65.73
+Total packets: 569051
+Total bytes: 847887962
+Data rate: 12.90 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Three.pcap
+The duration (in seconds) is: 65.01
+Total packets: 12058
+Total bytes: 15498076
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662938
+Total bytes: 989393838
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662935
+Total bytes: 989394464
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_06_31/00-Collected/2022-09-12T14_06_35.112646_ST_Two.pcap2
+The duration (in seconds) is: 5.1
+Total packets: 111339
+Total bytes: 166164596
+Data rate: 32.58 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_One.pcap
+The duration (in seconds) is: 59.47
+Total packets: 560143
+Total bytes: 834440581
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Three.pcap
+The duration (in seconds) is: 65.09
+Total packets: 12064
+Total bytes: 15510036
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap2
+The duration (in seconds) is: 4.73
+Total packets: 103271
+Total bytes: 154120512
+Data rate: 32.58 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662935
+Total bytes: 989394208
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_59_21/00-Collected/2022-09-12T13_59_25.351727_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662938
+Total bytes: 989393142
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662936
+Total bytes: 989393552
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989392976
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Three.pcap
+The duration (in seconds) is: 64.96
+Total packets: 12045
+Total bytes: 15483500
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_One.pcap
+The duration (in seconds) is: 65.46
+Total packets: 616517
+Total bytes: 918460092
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_02_56/00-Collected/2022-09-12T14_03_00.781756_ST_Two.pcap2
+The duration (in seconds) is: 4.79
+Total packets: 104590
+Total bytes: 156096224
+Data rate: 32.59 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989393732
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989392976
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Three.pcap
+The duration (in seconds) is: 65.09
+Total packets: 12060
+Total bytes: 15504954
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_Two.pcap2
+The duration (in seconds) is: 4.56
+Total packets: 99640
+Total bytes: 148707492
+Data rate: 32.61 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_07_55_45/00-Collected/2022-09-12T13_55_50.062627_ST_One.pcap
+The duration (in seconds) is: 65.25
+Total packets: 614492
+Total bytes: 915347043
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap2
+The duration (in seconds) is: 4.53
+Total packets: 99013
+Total bytes: 147772882
+Data rate: 32.62 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662948
+Total bytes: 989394272
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_One.pcap
+The duration (in seconds) is: 65.21
+Total packets: 614114
+Total bytes: 914847294
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Three.pcap
+The duration (in seconds) is: 65.05
+Total packets: 11994
+Total bytes: 15455946
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_52_51/00-Collected/2022-09-15T18_52_55.238117_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989392976
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Three.pcap
+The duration (in seconds) is: 60.1
+Total packets: 11141
+Total bytes: 14323336
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662934
+Total bytes: 989394374
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap2
+The duration (in seconds) is: 4.8
+Total packets: 104912
+Total bytes: 156576020
+Data rate: 32.62 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989392976
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-12_08_01_08/00-Collected/2022-09-12T14_01_13.153113_ST_One.pcap
+The duration (in seconds) is: 65.49
+Total packets: 616544
+Total bytes: 918515345
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662956
+Total bytes: 989393996
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_One.pcap
+The duration (in seconds) is: 65.44
+Total packets: 616098
+Total bytes: 917797489
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662945
+Total bytes: 989394140
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Three.pcap
+The duration (in seconds) is: 65.08
+Total packets: 11975
+Total bytes: 15409128
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_56_27/00-Collected/2022-09-15T18_56_31.260698_ST_Two.pcap2
+The duration (in seconds) is: 4.72
+Total packets: 103103
+Total bytes: 153875722
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap
+The duration (in seconds) is: 30.35
+Total packets: 662939
+Total bytes: 989393732
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap1
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap1
+The duration (in seconds) is: 30.35
+Total packets: 662937
+Total bytes: 989394298
+Data rate: 32.60 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_One.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_One.pcap
+The duration (in seconds) is: 65.31
+Total packets: 614907
+Total bytes: 916035810
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Three.pcap
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Three.pcap
+The duration (in seconds) is: 65.03
+Total packets: 12022
+Total bytes: 15488490
+Data rate: 0.24 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+/Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap2
+We are analyzing the following pcap_file: /Users/pravinravishanker/Downloads/Challenge/Datasets/2022-09-15_12_54_39/00-Collected/2022-09-15T18_54_43.282542_ST_Two.pcap2
+The duration (in seconds) is: 4.67
+Total packets: 101949
+Total bytes: 152153094
+Data rate: 32.58 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
+We are analyzing the following pcap_file: 2022-09-12T13_55_50.062627_ST_One.pcap
+The duration (in seconds) is: 65.25
+Total packets: 614492
+Total bytes: 915347043
+Data rate: 14.03 Mbps
+Dropped packets: 0
+Packet loss: 0.00%
