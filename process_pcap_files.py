@@ -1,3 +1,11 @@
+'''
+
+Run 
+python process_pcap_files.py > pcap_output_data_by_dataset.txt
+
+'''
+
+
 import dpkt
 
 def get_pcap_duration(pcap_file):
